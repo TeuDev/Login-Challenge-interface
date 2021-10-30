@@ -1,0 +1,136 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+     background: #fff;
+ }
+   
+  
+
+ h1 {
+     font-size: 30px;
+     text-align: center;
+     margin: 128px 277px 12px 16px;
+     display: block;
+     font-style: normal;
+     font-weight: 500;
+     font-size: 32px;
+     line-height: 41px;
+     letter-spacing: 0.41px;
+     color: #000;
+ }
+
+ 
+ .p-login {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    display:block; 
+    margin: 0 16px 102px 16px;
+    color:rgba(0, 0, 0, 0.5);
+ }
+     
+
+
+.i-email {
+       display: block;
+       margin-right: auto;
+       margin-left: auto;
+       width: 343px;
+       height: 48px;
+       outline: none;
+       border: none;
+       background: #d6cfcf;
+       border-radius: 4px;
+       box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+       
+ }
+
+ .i-password {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 10px;
+     width: 343px;
+     height: 48px;
+     border: none;
+     outline: none;
+     border-radius: 4px;
+     background: #d6cfcf;
+     box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+     
+    
+ }
+
+ input::placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: -0.41px;
+    color: #92929292;
+    padding: 14px;
+ }
+
+ .password {
+     display: block;
+     margin-top: 17px;
+     color: rgb(70, 13, 70);
+     text-decoration: none;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 16px;
+     line-height: 22px;
+     color: #007AFF;
+     text-align: right;
+     margin-right: 16px;
+     letter-spacing: -0.41px;
+ }
+
+ button{
+     display: block;
+     width: 343px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 20px;
+     height: 48px;
+     border-radius: 10px;
+     border: none;
+     outline: none;
+     background: #000;
+     color: #ffff;
+     
+ }
+
+ 
+.Sign {
+    text-decoration: none;
+    display: block;
+    color: #686464;
+    text-align: center;
+    margin-top: 207px;
+    margin-bottom: 39px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 0,51);
+}
+ 
+span {
+    color:#007AFF;
+}
+
+button:active{
+    opacity: 0.6;
+    
+}
+
+button:hover{
+    color:#000;
+    background: #f2f2f2;
+}
