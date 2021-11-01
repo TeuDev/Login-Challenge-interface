@@ -33,7 +33,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./MATHEUSIMG.JPG" width="100px;" alt="Matheus Andrade no GitHub"/><br>
+        <img src="./img.jpg" width="100px;" alt="Matheus Andrade no GitHub"/><br>
         <sub>
           <b>Matheus Andrade</b>
         </sub>
